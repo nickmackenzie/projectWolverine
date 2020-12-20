@@ -1,5 +1,4 @@
-# Trivia Night (a.k.a. projectWolverine)
-
+# Trivia Night
 ---
 ### Screenshots
 ![Question Page](main_app/static/imgs/question-page.png) ![Waiting Page](main_app/static/imgs/waiting-page.png) 
